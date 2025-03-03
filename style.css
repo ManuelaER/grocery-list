@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(255, 211, 218) ;
+}
+
+a {
+    padding: 5px 10px ;
+    margin: 15px 5px ;
+    color: rgb(209, 71, 94);
+    font-family: 'Lucida Sans' ;
+}
+
+h1 {
+    border-style: double ;
+    border-color: rgb(236, 70, 144) ;
+    color: rgb(221, 59, 110) ;
+    background-color: rgb(253, 240, 224) ;
+    display: inline-block ;
+    padding: 30px 100px ;
+    margin: 20px 30px ;
+    font-family: 'Lucida Sans' ;
+}
+
+h2 { 
+    max-width: fit-content ;
+    display: flex;
+    border: double rgb(221, 59, 110) ;
+    color: rgb(221, 59, 110) ;
+    background-color: rgb(253, 240, 224) ;
+    padding: 30px 100px 30px 100px;
+    margin: 20px 30px ;
+    font-family: 'Lucida handwriting' ;
+}
+
+h3 {
+    border: double rgb(221, 59, 110) ;
+    color: rgb(221, 59, 110) ;
+    margin: 30px ;
+    padding: 10px 20px ;
+    background-color: lightgray ;
+    font-family: 'Lucida Sans' ;
+}
+
+section {
+    border: dotted rgb(221, 59, 110) ;
+    display: inline-block ;
+    margin: 10px ;
+    padding: 20px;
+}
+
+.color {
+    background-color: rgb(239, 239, 239) ;
+}
+
+img {
+    height: 200px;
+    margin: 20px 30px ;
+    padding-bottom: 30px;
+}
+
+.grocery {
+    height: 150px ;
+    margin: 10px 30px ;
+}
